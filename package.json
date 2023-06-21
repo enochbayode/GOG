@@ -1,0 +1,22 @@
+{
+  "name": "gog",
+  "version": "1.0.0",
+  "description": "Tracking the movement of waste in the gulf og guinea",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js",
+    "start": "app.js"
+  },
+  "keywords": [
+    "GOG"
+  ],
+  "author": "Enoch",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.1.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "path": "^0.12.7"
+  }
+}
